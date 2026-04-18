@@ -1,0 +1,30 @@
+D:\C#\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.exe
+D:\C#\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.deps.json
+D:\C#\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.runtimeconfig.json
+D:\C#\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.dll
+D:\C#\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.pdb
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.AssemblyInfoInputs.cache
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.AssemblyInfo.cs
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.csproj.CoreCompileInputs.cache
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.sourcelink.json
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.dll
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\refint\5.evenOrOdd.dll
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.pdb
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.genruntimeconfig.cache
+D:\C#\5.evenOrOdd\obj\Debug\net10.0\ref\5.evenOrOdd.dll
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.exe
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.dll
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\bin\Debug\net10.0\5.evenOrOdd.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.dll
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\refint\5.evenOrOdd.dll
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\5.evenOrOdd.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\c#codes\5.evenOrOdd\obj\Debug\net10.0\ref\5.evenOrOdd.dll

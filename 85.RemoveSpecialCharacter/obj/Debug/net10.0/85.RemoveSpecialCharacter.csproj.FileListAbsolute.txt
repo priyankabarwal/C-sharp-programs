@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\bin\Debug\net10.0\85.RemoveSpecialCharacter.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\bin\Debug\net10.0\85.RemoveSpecialCharacter.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\bin\Debug\net10.0\85.RemoveSpecialCharacter.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\bin\Debug\net10.0\85.RemoveSpecialCharacter.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\bin\Debug\net10.0\85.RemoveSpecialCharacter.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\refint\85.RemoveSpecialCharacter.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\85.RemoveSpecialCharacter.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\85.RemoveSpecialCharacter\obj\Debug\net10.0\ref\85.RemoveSpecialCharacter.dll

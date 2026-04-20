@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\bin\Debug\net10.0\76.Demonstrate ref.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\bin\Debug\net10.0\76.Demonstrate ref.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\bin\Debug\net10.0\76.Demonstrate ref.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\bin\Debug\net10.0\76.Demonstrate ref.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\bin\Debug\net10.0\76.Demonstrate ref.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\refint\76.Demonstrate ref.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\76.Demonstrate ref.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\76.Demonstrate ref\obj\Debug\net10.0\ref\76.Demonstrate ref.dll

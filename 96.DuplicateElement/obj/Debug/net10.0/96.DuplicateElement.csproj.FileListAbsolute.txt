@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\bin\Debug\net10.0\96.DuplicateElement.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\bin\Debug\net10.0\96.DuplicateElement.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\bin\Debug\net10.0\96.DuplicateElement.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\bin\Debug\net10.0\96.DuplicateElement.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\bin\Debug\net10.0\96.DuplicateElement.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\refint\96.DuplicateElement.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\96.DuplicateElement.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\96.DuplicateElement\obj\Debug\net10.0\ref\96.DuplicateElement.dll

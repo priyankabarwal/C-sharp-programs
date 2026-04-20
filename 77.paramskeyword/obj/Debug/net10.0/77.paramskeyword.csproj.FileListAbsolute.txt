@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\bin\Debug\net10.0\77.paramskeyword.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\bin\Debug\net10.0\77.paramskeyword.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\bin\Debug\net10.0\77.paramskeyword.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\bin\Debug\net10.0\77.paramskeyword.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\bin\Debug\net10.0\77.paramskeyword.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\refint\77.paramskeyword.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\77.paramskeyword.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\77.paramskeyword\obj\Debug\net10.0\ref\77.paramskeyword.dll

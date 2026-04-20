@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\bin\Debug\net10.0\63.reverse string.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\bin\Debug\net10.0\63.reverse string.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\bin\Debug\net10.0\63.reverse string.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\bin\Debug\net10.0\63.reverse string.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\bin\Debug\net10.0\63.reverse string.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\refint\63.reverse string.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\63.reverse string.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\63.reverse string\obj\Debug\net10.0\ref\63.reverse string.dll

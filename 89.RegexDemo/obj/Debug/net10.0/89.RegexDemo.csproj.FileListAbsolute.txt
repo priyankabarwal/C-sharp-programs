@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\bin\Debug\net10.0\89.RegexDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\bin\Debug\net10.0\89.RegexDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\bin\Debug\net10.0\89.RegexDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\bin\Debug\net10.0\89.RegexDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\bin\Debug\net10.0\89.RegexDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\refint\89.RegexDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\89.RegexDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\89.RegexDemo\obj\Debug\net10.0\ref\89.RegexDemo.dll

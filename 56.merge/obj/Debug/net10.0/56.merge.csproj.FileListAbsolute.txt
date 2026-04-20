@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\bin\Debug\net10.0\56.merge.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\bin\Debug\net10.0\56.merge.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\bin\Debug\net10.0\56.merge.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\bin\Debug\net10.0\56.merge.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\bin\Debug\net10.0\56.merge.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\refint\56.merge.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\56.merge.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\56.merge\obj\Debug\net10.0\ref\56.merge.dll

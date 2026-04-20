@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\bin\Debug\net10.0\62.vowelscount.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\bin\Debug\net10.0\62.vowelscount.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\bin\Debug\net10.0\62.vowelscount.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\bin\Debug\net10.0\62.vowelscount.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\bin\Debug\net10.0\62.vowelscount.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\refint\62.vowelscount.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\62.vowelscount.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\62.vowelscount\obj\Debug\net10.0\ref\62.vowelscount.dll

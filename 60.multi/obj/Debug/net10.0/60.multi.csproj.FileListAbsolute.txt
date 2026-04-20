@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\bin\Debug\net10.0\60.multi.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\bin\Debug\net10.0\60.multi.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\bin\Debug\net10.0\60.multi.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\bin\Debug\net10.0\60.multi.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\bin\Debug\net10.0\60.multi.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\refint\60.multi.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\60.multi.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\60.multi\obj\Debug\net10.0\ref\60.multi.dll

@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\bin\Debug\net10.0\94.CommonElementsDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\bin\Debug\net10.0\94.CommonElementsDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\bin\Debug\net10.0\94.CommonElementsDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\bin\Debug\net10.0\94.CommonElementsDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\bin\Debug\net10.0\94.CommonElementsDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\refint\94.CommonElementsDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\94.CommonElementsDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\94.CommonElementsDemo\obj\Debug\net10.0\ref\94.CommonElementsDemo.dll

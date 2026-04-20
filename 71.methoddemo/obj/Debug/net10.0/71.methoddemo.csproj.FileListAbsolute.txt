@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\bin\Debug\net10.0\71.methoddemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\bin\Debug\net10.0\71.methoddemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\bin\Debug\net10.0\71.methoddemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\bin\Debug\net10.0\71.methoddemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\bin\Debug\net10.0\71.methoddemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\refint\71.methoddemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\71.methoddemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\71.methoddemo\obj\Debug\net10.0\ref\71.methoddemo.dll

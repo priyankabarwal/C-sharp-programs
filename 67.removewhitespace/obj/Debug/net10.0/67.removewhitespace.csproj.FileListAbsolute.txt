@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\bin\Debug\net10.0\67.removewhitespace.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\bin\Debug\net10.0\67.removewhitespace.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\bin\Debug\net10.0\67.removewhitespace.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\bin\Debug\net10.0\67.removewhitespace.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\bin\Debug\net10.0\67.removewhitespace.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\refint\67.removewhitespace.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\67.removewhitespace.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\67.removewhitespace\obj\Debug\net10.0\ref\67.removewhitespace.dll

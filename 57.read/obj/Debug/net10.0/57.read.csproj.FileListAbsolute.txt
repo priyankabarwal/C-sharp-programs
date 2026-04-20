@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\bin\Debug\net10.0\57.read.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\bin\Debug\net10.0\57.read.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\bin\Debug\net10.0\57.read.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\bin\Debug\net10.0\57.read.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\bin\Debug\net10.0\57.read.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\refint\57.read.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\57.read.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\57.read\obj\Debug\net10.0\ref\57.read.dll

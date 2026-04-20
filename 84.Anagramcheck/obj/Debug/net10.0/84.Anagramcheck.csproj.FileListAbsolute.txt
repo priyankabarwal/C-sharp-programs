@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\bin\Debug\net10.0\84.Anagramcheck.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\bin\Debug\net10.0\84.Anagramcheck.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\bin\Debug\net10.0\84.Anagramcheck.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\bin\Debug\net10.0\84.Anagramcheck.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\bin\Debug\net10.0\84.Anagramcheck.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\refint\84.Anagramcheck.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\84.Anagramcheck.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\84.Anagramcheck\obj\Debug\net10.0\ref\84.Anagramcheck.dll

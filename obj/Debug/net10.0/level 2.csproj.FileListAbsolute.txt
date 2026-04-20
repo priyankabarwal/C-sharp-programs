@@ -1,0 +1,5 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\obj\Debug\net10.0\level 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\obj\Debug\net10.0\level 2.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\obj\Debug\net10.0\level 2.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\obj\Debug\net10.0\level 2.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\obj\Debug\net10.0\level 2.sourcelink.json

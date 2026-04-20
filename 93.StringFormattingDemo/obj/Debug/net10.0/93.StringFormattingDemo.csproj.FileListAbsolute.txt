@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\bin\Debug\net10.0\93.StringFormattingDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\bin\Debug\net10.0\93.StringFormattingDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\bin\Debug\net10.0\93.StringFormattingDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\bin\Debug\net10.0\93.StringFormattingDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\bin\Debug\net10.0\93.StringFormattingDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\refint\93.StringFormattingDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\93.StringFormattingDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\93.StringFormattingDemo\obj\Debug\net10.0\ref\93.StringFormattingDemo.dll

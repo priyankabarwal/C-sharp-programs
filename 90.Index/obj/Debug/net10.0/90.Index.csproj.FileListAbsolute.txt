@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\bin\Debug\net10.0\90.Index.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\bin\Debug\net10.0\90.Index.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\bin\Debug\net10.0\90.Index.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\bin\Debug\net10.0\90.Index.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\bin\Debug\net10.0\90.Index.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\refint\90.Index.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\90.Index.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\90.Index\obj\Debug\net10.0\ref\90.Index.dll

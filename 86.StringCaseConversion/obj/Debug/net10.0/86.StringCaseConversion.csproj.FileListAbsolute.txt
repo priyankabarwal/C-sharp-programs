@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\bin\Debug\net10.0\86.StringCaseConversion.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\bin\Debug\net10.0\86.StringCaseConversion.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\bin\Debug\net10.0\86.StringCaseConversion.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\bin\Debug\net10.0\86.StringCaseConversion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\bin\Debug\net10.0\86.StringCaseConversion.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\refint\86.StringCaseConversion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\86.StringCaseConversion.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\86.StringCaseConversion\obj\Debug\net10.0\ref\86.StringCaseConversion.dll

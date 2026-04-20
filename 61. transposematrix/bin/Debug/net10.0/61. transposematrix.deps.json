@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "61. transposematrix/1.0.0": {
+        "runtime": {
+          "61. transposematrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "61. transposematrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

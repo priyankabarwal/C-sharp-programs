@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\bin\Debug\net10.0\83.splitting string.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\bin\Debug\net10.0\83.splitting string.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\bin\Debug\net10.0\83.splitting string.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\bin\Debug\net10.0\83.splitting string.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\bin\Debug\net10.0\83.splitting string.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\refint\83.splitting string.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\83.splitting string.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\83.splitting string\obj\Debug\net10.0\ref\83.splitting string.dll

@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\bin\Debug\net10.0\69.Stringbuildder.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\bin\Debug\net10.0\69.Stringbuildder.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\bin\Debug\net10.0\69.Stringbuildder.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\bin\Debug\net10.0\69.Stringbuildder.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\bin\Debug\net10.0\69.Stringbuildder.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\refint\69.Stringbuildder.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\69.Stringbuildder.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\69.Stringbuildder\obj\Debug\net10.0\ref\69.Stringbuildder.dll

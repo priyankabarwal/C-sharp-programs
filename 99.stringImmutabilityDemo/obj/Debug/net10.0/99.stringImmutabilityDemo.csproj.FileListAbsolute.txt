@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\bin\Debug\net10.0\99.stringImmutabilityDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\bin\Debug\net10.0\99.stringImmutabilityDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\bin\Debug\net10.0\99.stringImmutabilityDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\bin\Debug\net10.0\99.stringImmutabilityDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\bin\Debug\net10.0\99.stringImmutabilityDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\refint\99.stringImmutabilityDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\99.stringImmutabilityDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\99.stringImmutabilityDemo\obj\Debug\net10.0\ref\99.stringImmutabilityDemo.dll

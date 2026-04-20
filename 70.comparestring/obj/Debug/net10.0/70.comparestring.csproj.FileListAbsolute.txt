@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\bin\Debug\net10.0\70.comparestring.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\bin\Debug\net10.0\70.comparestring.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\bin\Debug\net10.0\70.comparestring.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\bin\Debug\net10.0\70.comparestring.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\bin\Debug\net10.0\70.comparestring.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\refint\70.comparestring.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\70.comparestring.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\70.comparestring\obj\Debug\net10.0\ref\70.comparestring.dll

@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\bin\Debug\net10.0\82.largestelement.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\bin\Debug\net10.0\82.largestelement.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\bin\Debug\net10.0\82.largestelement.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\bin\Debug\net10.0\82.largestelement.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\bin\Debug\net10.0\82.largestelement.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\refint\82.largestelement.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\82.largestelement.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\82.largestelement\obj\Debug\net10.0\ref\82.largestelement.dll

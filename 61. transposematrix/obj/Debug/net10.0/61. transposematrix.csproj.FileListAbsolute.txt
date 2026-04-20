@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\bin\Debug\net10.0\61. transposematrix.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\bin\Debug\net10.0\61. transposematrix.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\bin\Debug\net10.0\61. transposematrix.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\bin\Debug\net10.0\61. transposematrix.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\bin\Debug\net10.0\61. transposematrix.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\refint\61. transposematrix.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\61. transposematrix.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\61. transposematrix\obj\Debug\net10.0\ref\61. transposematrix.dll

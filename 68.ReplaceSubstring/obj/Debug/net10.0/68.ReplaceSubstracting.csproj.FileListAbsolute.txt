@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\bin\Debug\net10.0\68.ReplaceSubstracting.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\bin\Debug\net10.0\68.ReplaceSubstracting.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\bin\Debug\net10.0\68.ReplaceSubstracting.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\bin\Debug\net10.0\68.ReplaceSubstracting.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\bin\Debug\net10.0\68.ReplaceSubstracting.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\refint\68.ReplaceSubstracting.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\68.ReplaceSubstracting.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\68.ReplaceSubstracting\obj\Debug\net10.0\ref\68.ReplaceSubstracting.dll

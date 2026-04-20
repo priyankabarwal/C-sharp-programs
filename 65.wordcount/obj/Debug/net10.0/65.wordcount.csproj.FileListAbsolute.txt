@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\bin\Debug\net10.0\65.wordcount.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\bin\Debug\net10.0\65.wordcount.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\bin\Debug\net10.0\65.wordcount.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\bin\Debug\net10.0\65.wordcount.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\bin\Debug\net10.0\65.wordcount.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\refint\65.wordcount.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\65.wordcount.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\65.wordcount\obj\Debug\net10.0\ref\65.wordcount.dll

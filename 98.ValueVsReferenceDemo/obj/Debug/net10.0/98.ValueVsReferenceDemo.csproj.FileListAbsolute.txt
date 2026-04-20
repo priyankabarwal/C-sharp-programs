@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\bin\Debug\net10.0\98.ValueVsReferenceDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\bin\Debug\net10.0\98.ValueVsReferenceDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\bin\Debug\net10.0\98.ValueVsReferenceDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\bin\Debug\net10.0\98.ValueVsReferenceDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\bin\Debug\net10.0\98.ValueVsReferenceDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\refint\98.ValueVsReferenceDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\98.ValueVsReferenceDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\98.ValueVsReferenceDemo\obj\Debug\net10.0\ref\98.ValueVsReferenceDemo.dll

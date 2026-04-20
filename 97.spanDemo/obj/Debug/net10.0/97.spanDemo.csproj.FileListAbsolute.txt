@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\bin\Debug\net10.0\97.spanDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\bin\Debug\net10.0\97.spanDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\bin\Debug\net10.0\97.spanDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\bin\Debug\net10.0\97.spanDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\bin\Debug\net10.0\97.spanDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\refint\97.spanDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\97.spanDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\97.spanDemo\obj\Debug\net10.0\ref\97.spanDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\bin\Debug\net10.0\81.arrayparameter.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\bin\Debug\net10.0\81.arrayparameter.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\bin\Debug\net10.0\81.arrayparameter.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\bin\Debug\net10.0\81.arrayparameter.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\bin\Debug\net10.0\81.arrayparameter.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\refint\81.arrayparameter.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\81.arrayparameter.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\81.arrayparameter\obj\Debug\net10.0\ref\81.arrayparameter.dll

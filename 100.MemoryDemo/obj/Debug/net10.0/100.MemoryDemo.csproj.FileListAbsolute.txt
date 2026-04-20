@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\bin\Debug\net10.0\100.MemoryDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\bin\Debug\net10.0\100.MemoryDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\bin\Debug\net10.0\100.MemoryDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\bin\Debug\net10.0\100.MemoryDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\bin\Debug\net10.0\100.MemoryDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\refint\100.MemoryDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\100.MemoryDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\100.MemoryDemo\obj\Debug\net10.0\ref\100.MemoryDemo.dll

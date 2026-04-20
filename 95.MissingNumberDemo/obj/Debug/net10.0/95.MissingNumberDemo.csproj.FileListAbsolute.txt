@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\bin\Debug\net10.0\95.MissingNumberDemo.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\bin\Debug\net10.0\95.MissingNumberDemo.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\bin\Debug\net10.0\95.MissingNumberDemo.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\bin\Debug\net10.0\95.MissingNumberDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\bin\Debug\net10.0\95.MissingNumberDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\refint\95.MissingNumberDemo.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\95.MissingNumberDemo.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\95.MissingNumberDemo\obj\Debug\net10.0\ref\95.MissingNumberDemo.dll

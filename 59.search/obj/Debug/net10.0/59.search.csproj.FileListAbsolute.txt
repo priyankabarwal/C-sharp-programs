@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\bin\Debug\net10.0\59.search.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\bin\Debug\net10.0\59.search.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\bin\Debug\net10.0\59.search.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\bin\Debug\net10.0\59.search.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\bin\Debug\net10.0\59.search.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\refint\59.search.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\59.search.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\59.search\obj\Debug\net10.0\ref\59.search.dll

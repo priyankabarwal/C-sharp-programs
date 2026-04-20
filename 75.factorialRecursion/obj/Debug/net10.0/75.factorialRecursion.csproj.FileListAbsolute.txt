@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\bin\Debug\net10.0\75.factorialRecursion.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\bin\Debug\net10.0\75.factorialRecursion.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\bin\Debug\net10.0\75.factorialRecursion.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\bin\Debug\net10.0\75.factorialRecursion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\bin\Debug\net10.0\75.factorialRecursion.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\refint\75.factorialRecursion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\75.factorialRecursion.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\75.factorialRecursion\obj\Debug\net10.0\ref\75.factorialRecursion.dll

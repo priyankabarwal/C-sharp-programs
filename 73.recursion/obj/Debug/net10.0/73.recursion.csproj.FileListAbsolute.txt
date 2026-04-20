@@ -1,0 +1,15 @@
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\bin\Debug\net10.0\73.recursion.exe
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\bin\Debug\net10.0\73.recursion.deps.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\bin\Debug\net10.0\73.recursion.runtimeconfig.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\bin\Debug\net10.0\73.recursion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\bin\Debug\net10.0\73.recursion.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.AssemblyInfoInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.AssemblyInfo.cs
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.sourcelink.json
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\refint\73.recursion.dll
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.pdb
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\73.recursion.genruntimeconfig.cache
+C:\Users\Priyanka Barwal\Downloads\C#\level 2\73.recursion\obj\Debug\net10.0\ref\73.recursion.dll
